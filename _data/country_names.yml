@@ -142,7 +142,7 @@
 -
   index: 'map_29'
   country_name: 'CANADA'
-  visited: false
+  visited: true
 
 -
   index: 'map_30'
@@ -192,17 +192,17 @@
 -
   index: 'map_39'
   country_name: 'CUBA'
-  visited: false
+  visited: true
 
 -
   index: 'map_40'
   country_name: 'CYPRUS'
-  visited: false
+  visited: true
 
 -
   index: 'map_41'
   country_name: 'CZECH REPUBLIC'
-  visited: true
+  visited: false
 
 -
   index: 'map_42'
@@ -307,7 +307,7 @@
 -
   index: 'map_62'
   country_name: 'GREECE'
-  visited: false
+  visited: true
 
 -
   index: 'map_63'
@@ -347,7 +347,7 @@
 -
   index: 'map_70'
   country_name: 'HUNGARY'
-  visited: false
+  visited: true
 
 -
   index: 'map_71'
@@ -377,7 +377,7 @@
 -
   index: 'map_76'
   country_name: 'IRELAND'
-  visited: false
+  visited: true
 
 -
   index: 'map_77'
@@ -507,7 +507,7 @@
 -
   index: 'map_102'
   country_name: 'MALTA'
-  visited: false
+  visited: true
 
 -
   index: 'map_103'
@@ -542,7 +542,7 @@
 -
   index: 'map_109'
   country_name: 'MOROCCO'
-  visited: false
+  visited: true
 
 -
   index: 'map_110'
@@ -567,7 +567,7 @@
 -
   index: 'map_114'
   country_name: 'NETHERLANDS'
-  visited: false
+  visited: true
 
 -
   index: 'map_115'
@@ -647,7 +647,7 @@
 -
   index: 'map_130'
   country_name: 'PORTUGAL'
-  visited: false
+  visited: true
 
 -
   index: 'map_131'
@@ -702,7 +702,7 @@
 -
   index: 'map_141'
   country_name: 'SINGAPORE'
-  visited: false
+  visited: true
 
 -
   index: 'map_142'
@@ -727,7 +727,7 @@
 -
   index: 'map_146'
   country_name: 'SOUTH AFRICA'
-  visited: false
+  visited: true
 
 -
   index: 'map_147'
@@ -742,7 +742,7 @@
 -
   index: 'map_149'
   country_name: 'SPAIN'
-  visited: false
+  visited: true
 
 -
   index: 'map_150'
@@ -802,7 +802,7 @@
 -
   index: 'map_161'
   country_name: 'THAILAND'
-  visited: false
+  visited: true
 
 -
   index: 'map_162'
@@ -877,7 +877,7 @@
 -
   index: 'map_176'
   country_name: 'VIETNAM'
-  visited: false
+  visited: true
 
 -
   index: 'map_177'
